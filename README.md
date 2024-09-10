@@ -16,3 +16,9 @@ To run this program, you need:
   - `array_ops.h`: The header file with function declarations.
   - `input.txt`: Input file containing integers.
 
+### Screenshot Descriptions
+- 303_Image_1.png: A screenshot showing the user searching for an integer in the array and finding the index for given value
+- 303_Image_2.png: A screenshot showing the user searching for an integer in the array and modifying its value.
+- 303_Image_3.png: A screenshot showing the user adding a new integer to array
+- 303_Image_4.png: A screenshot where the user removes an integer from the array and the size of the array is updated.
+
