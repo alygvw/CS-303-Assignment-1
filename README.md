@@ -1,1 +1,18 @@
 # CS-303-Assignment-1
+
+## Overview
+This program performs a variety of operations on a one-dimensional array, including:
+1. Searching for an integer in the array and returning its index.
+2. Modifying the value of an integer in the array at a specified index.
+3. Adding a new integer to the end of the array.
+4. Replacing a value with `0` or removing the value from the array altogether.
+
+### Prerequisites
+To run this program, you need:
+- A C++ compiler
+- The following files in the same directory:
+  - `main.cpp`: The main program file.
+  - `array_ops.cpp`: Contains function definitions for array operations.
+  - `array_ops.h`: The header file with function declarations.
+  - `input.txt`: Input file containing integers.
+
